@@ -1,2 +1,0 @@
-show spanning-tree mst configuration | i Name
-sh running-config | include spanning-tree mst 0-1
