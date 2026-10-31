@@ -1,5 +1,5 @@
 id: cisco.check-status
-name: "Cisco switch mst chek"
+name: "mst chek"
 description: "MST name and prior"
 commands:
   - "show spanning-tree mst configuration | i Name"
